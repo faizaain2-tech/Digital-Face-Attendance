@@ -30,5 +30,6 @@ six==1.17.0
 sounddevice==0.5.5
 threadpoolctl==3.6.0
 tzdata==2025.3
+gunicorn
 Werkzeug==3.1.7
 
